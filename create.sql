@@ -16,4 +16,4 @@ insert into purchase (card_number, soft_descriptor, amount, date, currency) valu
 insert into purchase (card_number, soft_descriptor, amount, date, currency) values 
 ('1234123412341234', 'Google Ads', 200, '2022-10-20T10:00:00', 'BRL');
 insert into purchase (card_number, soft_descriptor, amount, date, currency) values 
-('1234123412341234', 'Google Ads', 200, '2022-07-10T10:00:00', 'BRL');
+('1234123412341234', 'Google Ads', 200, '2022-07-10T10:00:00', 'USD');
